@@ -45,34 +45,34 @@ In a typical week I'm building interfaces, designing APIs and databases, shippin
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=react" width="42" alt="Frontend" /><br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" alt="Frontend" /><br/>
 <b>Frontend</b><br/>
 <sub>React and Next.js interfaces that are fast, accessible and easy to maintain</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Backend" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42" alt="Backend" /><br/>
 <b>Backend</b><br/>
 <sub>REST APIs, authentication and data modeling with Node.js, Express and Django</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=expo" width="42" alt="Mobile" /><br/>
+<img src="https://skillicons.dev/icons?i=expo&theme=dark" width="42" alt="Mobile" /><br/>
 <b>Mobile</b><br/>
 <sub>Cross-platform iOS and Android apps with React Native and Expo</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="AI and ML" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="42" alt="AI and ML" /><br/>
 <b>AI and ML</b><br/>
 <sub>Machine learning models, LLM integrations and computer vision</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="Databases" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" alt="Databases" /><br/>
 <b>Databases</b><br/>
 <sub>Schema design and query performance in MongoDB, PostgreSQL and Redis</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<img src="https://skillicons.dev/icons?i=docker" width="42" alt="DevOps" /><br/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="DevOps" /><br/>
 <b>DevOps</b><br/>
 <sub>Docker, CI/CD with GitHub Actions and cloud deployments on AWS</sub>
 </td>
