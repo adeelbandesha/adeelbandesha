@@ -1,67 +1,95 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Adeel Bandesha, Senior Full Stack Engineer. I design and build web, mobile and AI products end to end." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/hero-light.svg" width="100%" alt="Adeel Bandesha, full stack software engineer. I build web and mobile products end to end, from the interface down to the database, and bring machine learning into them where it earns its place." />
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adeelahmad001"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:bandesha17214342@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email me" /></a>
-</p>
-
-<br/>
-
-<img src="./assets/h-about.svg" width="100%" alt="About" />
-
-<img src="./assets/about.svg" width="100%" alt="I'm a senior full stack engineer at Genius Mind Zone. I work across the whole product: React and Next.js on the web, React Native and Expo on mobile, and Node.js, TypeScript and Python on the server. A growing part of my work is AI and machine learning, from computer vision models to LLM-powered features inside production apps." />
-
-<br/><br/>
-
-<img src="./assets/h-expertise.svg" width="100%" alt="Expertise" />
-
-<img src="./assets/expertise.svg" width="100%" alt="Frontend, Backend, Mobile, AI and ML, Databases, DevOps" />
-
-<br/><br/>
-
-<img src="./assets/h-stack.svg" width="100%" alt="Tech stack" />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,nodejs,express,python,django,expo,pytorch,tensorflow,opencv,mongodb,postgres,redis,docker,aws,githubactions,nginx,linux,vercel,git,github,postman,vscode,figma&perline=10&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind, HTML, CSS, Node.js, Express, Python, Django, Expo, PyTorch, TensorFlow, OpenCV, MongoDB, PostgreSQL, Redis, Docker, AWS, GitHub Actions, Nginx, Linux, Vercel, Git, GitHub, Postman, VS Code, Figma" />
+<p>
+<a href="https://www.linkedin.com/in/adeelahmad001"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="46" alt="LinkedIn" />
+</picture></a>
+&nbsp;
+<a href="mailto:bandesha17214342@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="46" alt="Email" />
+</picture></a>
 </p>
 
 <br/>
 
-<img src="./assets/h-work.svg" width="100%" alt="Featured work" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-about-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-about-light.svg" width="100%" alt="About" />
+</picture>
 
-<img src="./assets/project.svg" width="100%" alt="Quran Learning App: a mobile app for reading and memorizing the Quran with authentic glyph-based Mushaf pages. React Native and Expo app with a Node.js, Express and MongoDB API." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/about-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/about-light.svg" width="100%" alt="I'm a full stack engineer who enjoys owning a feature from the first screen to the last database query. I work across React and Next.js on the web, React Native and Expo on mobile, and Node.js, TypeScript and Python on the server, with a growing focus on AI and machine learning." />
+</picture>
 
-<br/><br/>
+<br/>
 
-<img src="./assets/h-activity.svg" width="100%" alt="Activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-services-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-services-light.svg" width="100%" alt="What I do" />
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adeelbandesha&background=10182F&border=22305A&stroke=22305A&ring=8B5CF6&fire=22D3EE&currStreakNum=E8ECF5&sideNums=E8ECF5&currStreakLabel=22D3EE&sideLabels=9AA5C0&dates=5D6A8C&border_radius=20&card_width=1000&card_height=210" width="100%" alt="GitHub contribution streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/services-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/services-light.svg" width="100%" alt="Frontend, Backend, Mobile, AI and ML, Databases and DevOps" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/output/github-snake.svg" />
-    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/output/github-snake-dark.svg" width="100%" />
-  </picture>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-work-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-work-light.svg" width="100%" alt="Selected work" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-light.svg" width="100%" alt="Quran Learning App: a mobile app for reading and memorizing the Quran with authentic glyph-based Mushaf pages. React Native and Expo app with a Node.js, Express and MongoDB API." />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-activity-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-activity-light.svg" width="100%" alt="Activity" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adeelbandesha&hide_border=true&card_width=1000&card_height=200&background=0D1117&stroke=2E2C28&ring=E08A5B&fire=E08A5B&currStreakNum=EDE9E2&sideNums=EDE9E2&currStreakLabel=E08A5B&sideLabels=ABA59A&dates=7A756C" />
+  <img src="https://streak-stats.demolab.com?user=adeelbandesha&hide_border=true&card_width=1000&card_height=200&background=FFFFFF&stroke=E3DED4&ring=B4532A&fire=B4532A&currStreakNum=1D1C1A&sideNums=1D1C1A&currStreakLabel=B4532A&sideLabels=57534B&dates=8A857B" width="100%" alt="GitHub contribution streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-contact-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/h-contact-light.svg" width="100%" alt="Contact" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/contact-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/contact-light.svg" width="100%" alt="Have a role or a project in mind? I'm always glad to hear about full stack roles and freelance work. The quickest way to reach me is LinkedIn or email." />
+</picture>
+
+<p>
+<a href="https://www.linkedin.com/in/adeelahmad001"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="46" alt="LinkedIn" />
+</picture></a>
+&nbsp;
+<a href="mailto:bandesha17214342@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="46" alt="Email" />
+</picture></a>
 </p>
 
 <br/>
 
-<img src="./assets/h-contact.svg" width="100%" alt="Contact" />
-
-<img src="./assets/contact.svg" width="100%" alt="Have a role or a product in mind? LinkedIn or email is the quickest way to reach me." />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adeelahmad001"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:bandesha17214342@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email me" /></a>
-</p>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/footer-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/footer-light.svg" width="100%" alt="" />
+</picture>
