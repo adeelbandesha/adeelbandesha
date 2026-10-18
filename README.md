@@ -6,12 +6,12 @@
 <p>
 <a href="https://www.linkedin.com/in/adeelahmad001"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="46" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="38" alt="LinkedIn" />
 </picture></a>
 &nbsp;
 <a href="mailto:bandesha17214342@gmail.com"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="46" alt="Email" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="38" alt="Email" />
 </picture></a>
 </p>
 
@@ -78,12 +78,12 @@
 <p>
 <a href="https://www.linkedin.com/in/adeelahmad001"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="46" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-linkedin-light.svg" height="38" alt="LinkedIn" />
 </picture></a>
 &nbsp;
 <a href="mailto:bandesha17214342@gmail.com"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="46" alt="Email" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/btn-email-light.svg" height="38" alt="Email" />
 </picture></a>
 </p>
 
