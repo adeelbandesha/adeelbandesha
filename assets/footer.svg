@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" fill="none">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090E1C"/><stop offset="1" stop-color="#111A38"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient><linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+.m{fill:#0F172A} @media (prefers-color-scheme: dark){.m{fill:#E8ECF5}}
+</style>
+<rect x="80" y="34" width="380" height="2" rx="1" fill="url(#l)"/>
+<rect x="540" y="34" width="380" height="2" rx="1" fill="url(#r)"/>
+<rect x="474" y="9" width="52" height="52" rx="16" fill="url(#accent)" fill-opacity="0.12" stroke="url(#accent)" stroke-width="1.5"/>
+<text x="500" y="41.5" text-anchor="middle" class="m" font-size="17" font-weight="800" letter-spacing="0.5">AB</text>
+</svg>

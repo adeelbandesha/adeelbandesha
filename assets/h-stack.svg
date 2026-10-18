@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="76" viewBox="0 0 1000 76" fill="none">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090E1C"/><stop offset="1" stop-color="#111A38"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.6"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+.t{fill:#0F172A} .s{fill:#5B6478} .n{fill:#8B5CF6} @media (prefers-color-scheme: dark){.t{fill:#E8ECF5} .s{fill:#9AA5C0} .n{fill:#22D3EE}}
+</style>
+<rect x="1" y="8" width="38" height="38" rx="11" fill="url(#accent)" fill-opacity="0.14" stroke="url(#accent)" stroke-opacity="0.7"/>
+<text x="20" y="32" text-anchor="middle" class="mono n" font-size="14" font-weight="700">03</text>
+<text x="52" y="36" class="t" font-size="26" font-weight="700" letter-spacing="-0.3">Tech Stack</text>
+<text x="52" y="62" class="s" font-size="14">Tools I use every day</text>
+<rect x="232" y="26" width="768" height="2" rx="1" fill="url(#fade)"/>
+</svg>

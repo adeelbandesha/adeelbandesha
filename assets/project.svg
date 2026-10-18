@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" fill="none">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090E1C"/><stop offset="1" stop-color="#111A38"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/></pattern>
+<clipPath id="clip"><rect width="1000" height="520" rx="24"/></clipPath><linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="blur3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+</style>
+<rect width="1000" height="520" rx="24" fill="url(#bg)"/><g clip-path="url(#clip)">
+<rect width="1000" height="520" fill="url(#grid)"/>
+<circle cx="120.0" cy="52.0" r="170" fill="#8B5CF6" fill-opacity="0.32" filter="url(#blur)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;30 20;0 0" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="900.0" cy="494.0" r="190" fill="#22D3EE" fill-opacity="0.18" filter="url(#blur)">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-30 -15;0 0" dur="16s" repeatCount="indefinite"/></circle>
+</g><rect x="0.5" y="0.5" width="999" height="519" rx="24" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="52" y="48" width="134.8" height="28" rx="14.0" fill="#22D3EE" fill-opacity="0.08" stroke="#22D3EE" stroke-opacity="0.35"/><text x="64.0" y="66.1" font-size="11.5" font-weight="600" fill="#22D3EE" class="mono">FEATURED PROJECT</text>
+<text x="51" y="122" font-size="38" font-weight="800" fill="#E8ECF5" letter-spacing="-0.6">Quran Learning App</text>
+<rect x="52" y="140" width="132.2" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.09"/><circle cx="68" cy="153.0" r="4" fill="#8B5CF6"/><text x="78.0" y="157.3" font-size="12" font-weight="500" fill="#E8ECF5">In development</text>
+<rect x="192.171875" y="140" width="144.4" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.09"/><circle cx="208.171875" cy="153.0" r="4" fill="#5D6A8C"/><text x="218.2" y="157.3" font-size="12" font-weight="500" fill="#E8ECF5">Private repository</text>
+<rect x="344.546875" y="140" width="114.0" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.09"/><circle cx="360.546875" cy="153.0" r="4" fill="#22D3EE"/><text x="370.5" y="157.3" font-size="12" font-weight="500" fill="#E8ECF5">Mobile + API</text>
+<text x="52" y="202" font-size="15.5" fill="#9AA5C0">A mobile app for reading and memorizing the Quran. It renders</text>
+<text x="52" y="227" font-size="15.5" fill="#9AA5C0">real Mushaf pages from the original glyph fonts, so every page</text>
+<text x="52" y="252" font-size="15.5" fill="#9AA5C0">matches the printed copy. I'm building both the React Native</text>
+<text x="52" y="277" font-size="15.5" fill="#9AA5C0">app and the Node.js API behind it.</text>
+<circle cx="61" cy="311" r="9" fill="#34D399" fill-opacity="0.14"/><path d="M57 311L60 314L65.5 307.5" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="316" font-size="14.5" fill="#E8ECF5">Four Mushaf layouts: KFGQPC V4, V2 and IndoPak 15 and 16 line</text>
+<circle cx="61" cy="342" r="9" fill="#34D399" fill-opacity="0.14"/><path d="M57 342L60 345L65.5 338.5" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="347" font-size="14.5" fill="#E8ECF5">Designed for memorization as well as daily reading</text>
+<circle cx="61" cy="373" r="9" fill="#34D399" fill-opacity="0.14"/><path d="M57 373L60 376L65.5 369.5" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="378" font-size="14.5" fill="#E8ECF5">Translations, tafsir, word by word meanings and audio</text>
+<circle cx="61" cy="404" r="9" fill="#34D399" fill-opacity="0.14"/><path d="M57 404L60 407L65.5 400.5" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="409" font-size="14.5" fill="#E8ECF5">Quranic text and data taken only from verified sources</text>
+<text x="52" y="463" class="mono" font-size="11" letter-spacing="1.5" fill="#5D6A8C">APP</text>
+<rect x="96" y="446" width="100.5" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="108.0" y="463.3" font-size="12" font-weight="500" fill="#E8ECF5">React Native</text>
+<rect x="202.546875" y="446" width="53.7" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="214.5" y="463.3" font-size="12" font-weight="500" fill="#E8ECF5">Expo</text>
+<rect x="262.203125" y="446" width="86.4" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="274.2" y="463.3" font-size="12" font-weight="500" fill="#E8ECF5">TypeScript</text>
+<text x="52" y="499" class="mono" font-size="11" letter-spacing="1.5" fill="#5D6A8C">API</text>
+<rect x="96" y="482" width="68.7" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="108.0" y="499.3" font-size="12" font-weight="500" fill="#E8ECF5">Node.js</text>
+<rect x="170.734375" y="482" width="70.9" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="182.7" y="499.3" font-size="12" font-weight="500" fill="#E8ECF5">Express</text>
+<rect x="247.609375" y="482" width="81.8" height="26" rx="13.0" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.09"/><text x="259.6" y="499.3" font-size="12" font-weight="500" fill="#E8ECF5">MongoDB</text>
+<rect x="663" y="54" width="236" height="440" rx="38" fill="#000" fill-opacity="0.35" filter="url(#blur3)"/>
+<rect x="655" y="40" width="236" height="440" rx="38" fill="#05070F" stroke="#2C3768" stroke-width="2"/>
+<clipPath id="screen"><rect x="665" y="50" width="216" height="420" rx="30"/></clipPath>
+<g clip-path="url(#screen)">
+<rect x="665" y="50" width="216" height="420" fill="#F6EFDF"/>
+<rect x="665" y="50" width="216" height="64" fill="#1E4D3A"/>
+<rect x="737.0" y="59" width="72" height="20" rx="10" fill="#05070F"/>
+<text x="681" y="102" font-size="11" font-weight="600" fill="#F6EFDF">Page 1</text>
+<text x="865" y="102" text-anchor="end" font-size="11" fill="#CFE3D6">Juz 1</text>
+<rect x="679" y="128" width="188" height="262" rx="6" stroke="#B08D57" stroke-width="2"/>
+<rect x="684" y="133" width="178" height="252" rx="4" stroke="#1E4D3A" stroke-width="1"/>
+<rect x="674" y="123" width="10" height="10" transform="rotate(45 679 128)" fill="#B08D57"/>
+<rect x="862" y="123" width="10" height="10" transform="rotate(45 867 128)" fill="#B08D57"/>
+<rect x="674" y="385" width="10" height="10" transform="rotate(45 679 390)" fill="#B08D57"/>
+<rect x="862" y="385" width="10" height="10" transform="rotate(45 867 390)" fill="#B08D57"/>
+<rect x="693" y="144" width="160" height="26" rx="13" fill="#1E4D3A" fill-opacity="0.08" stroke="#B08D57" stroke-width="1.4"/>
+<circle cx="773.0" cy="157" r="6" stroke="#B08D57" stroke-width="1.4"/><circle cx="773.0" cy="157" r="2" fill="#B08D57"/>
+<path d="M705 157H761.0M785.0 157H841" stroke="#B08D57" stroke-opacity="0.6"/>
+<rect x="705.8" y="194" width="147.2" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="693.0" y="213" width="160.0" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<circle cx="792.2" cy="216" r="6" fill="#F6EFDF" stroke="#B08D57" stroke-width="1.4"/>
+<rect x="715.4" y="232" width="137.6" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="693.0" y="251" width="160.0" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="750.6" y="248" width="48.0" height="12" rx="4" fill="#22D3EE" fill-opacity="0.28"/>
+<rect x="701.0" y="270" width="152.0" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<circle cx="795.2" cy="273" r="6" fill="#F6EFDF" stroke="#B08D57" stroke-width="1.4"/>
+<rect x="728.2" y="289" width="124.8" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="693.0" y="308" width="160.0" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="709.0" y="327" width="144.0" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<circle cx="798.3" cy="330" r="6" fill="#F6EFDF" stroke="#B08D57" stroke-width="1.4"/>
+<rect x="697.8" y="346" width="155.2" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="753.8" y="365" width="99.2" height="6" rx="3" fill="#3B2F22" fill-opacity="0.55"/>
+<rect x="677" y="384" width="192" height="62" rx="16" fill="#0E1A2E"/>
+<circle cx="707" cy="415" r="16" fill="url(#accent)"/><path d="M703 408V422L714 415Z" fill="#fff"/>
+<text x="733" y="410" font-size="11" font-weight="600" fill="#E8ECF5">Recitation</text>
+<rect x="733" y="426" width="4" height="6" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="6;14;6" dur="0.90s" repeatCount="indefinite"/><animate attributeName="y" values="426;418;426" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="742" y="421" width="4" height="11" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="11;9;11" dur="0.97s" repeatCount="indefinite"/><animate attributeName="y" values="421;423;421" dur="0.97s" repeatCount="indefinite"/></rect>
+<rect x="751" y="416" width="4" height="16" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="16;4;16" dur="1.04s" repeatCount="indefinite"/><animate attributeName="y" values="416;428;416" dur="1.04s" repeatCount="indefinite"/></rect>
+<rect x="760" y="423" width="4" height="9" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="9;11;9" dur="1.11s" repeatCount="indefinite"/><animate attributeName="y" values="423;421;423" dur="1.11s" repeatCount="indefinite"/></rect>
+<rect x="769" y="418" width="4" height="14" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="14;6;14" dur="1.18s" repeatCount="indefinite"/><animate attributeName="y" values="418;426;418" dur="1.18s" repeatCount="indefinite"/></rect>
+<rect x="778" y="414" width="4" height="18" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="18;3;18" dur="0.90s" repeatCount="indefinite"/><animate attributeName="y" values="414;429;414" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="787" y="424" width="4" height="8" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="8;12;8" dur="0.97s" repeatCount="indefinite"/><animate attributeName="y" values="424;420;424" dur="0.97s" repeatCount="indefinite"/></rect>
+<rect x="796" y="419" width="4" height="13" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="13;7;13" dur="1.04s" repeatCount="indefinite"/><animate attributeName="y" values="419;425;419" dur="1.04s" repeatCount="indefinite"/></rect>
+<rect x="805" y="415" width="4" height="17" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="17;3;17" dur="1.11s" repeatCount="indefinite"/><animate attributeName="y" values="415;429;415" dur="1.11s" repeatCount="indefinite"/></rect>
+<rect x="814" y="422" width="4" height="10" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="10;10;10" dur="1.18s" repeatCount="indefinite"/><animate attributeName="y" values="422;422;422" dur="1.18s" repeatCount="indefinite"/></rect>
+<rect x="823" y="425" width="4" height="7" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="7;13;7" dur="0.90s" repeatCount="indefinite"/><animate attributeName="y" values="425;419;425" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="832" y="420" width="4" height="12" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="12;8;12" dur="0.97s" repeatCount="indefinite"/><animate attributeName="y" values="420;424;420" dur="0.97s" repeatCount="indefinite"/></rect>
+<rect x="841" y="417" width="4" height="15" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="15;5;15" dur="1.04s" repeatCount="indefinite"/><animate attributeName="y" values="417;427;417" dur="1.04s" repeatCount="indefinite"/></rect>
+<rect x="850" y="423" width="4" height="9" rx="2" fill="#22D3EE" fill-opacity="0.85"><animate attributeName="height" values="9;11;9" dur="1.11s" repeatCount="indefinite"/><animate attributeName="y" values="423;421;423" dur="1.11s" repeatCount="indefinite"/></rect>
+</g>
+<g><rect x="588" y="128" width="151" height="38" rx="12" fill="#0E1530" stroke="#FFFFFF" stroke-opacity="0.14"/><circle cx="607" cy="147" r="5" fill="#8B5CF6"/><text x="620" y="151.5" font-size="12.5" font-weight="600" fill="#E8ECF5">4 Mushaf layouts</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite"/></g>
+<g><rect x="838" y="360" width="130" height="38" rx="12" fill="#0E1530" stroke="#FFFFFF" stroke-opacity="0.14"/><circle cx="857" cy="379" r="5" fill="#22D3EE"/><text x="870" y="383.5" font-size="12.5" font-weight="600" fill="#E8ECF5">Word by word</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5s" repeatCount="indefinite"/></g>
+<g clip-path="url(#clip)"><rect x="0" y="517" width="1000" height="3" fill="url(#accent)"/>
+<rect x="-300" y="517" width="300" height="3" fill="url(#shine)">
+<animate attributeName="x" values="-300;1000" dur="4s" repeatCount="indefinite"/></rect></g>
+</svg>
