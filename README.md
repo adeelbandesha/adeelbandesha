@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a senior software engineer at Genius Mind Zone in Faisalabad. Most of my work is building backends in Node.js and TypeScript, along with the React Native apps that run on top of them. I also use Python for AI work, mainly image generation and upscaling, and I look after deployments with Docker and GitHub Actions.
+I'm a senior software engineer at Genius Mind Zone in Faisalabad. Most of my work is building backends in Node.js and TypeScript, along with the React Native apps that run on top of them. I also work on AI and machine learning in Python, from computer vision models to LLM-powered features, and I look after deployments with Docker and GitHub Actions.
 
 On a normal day that means writing APIs, designing databases, getting mobile releases out and keeping the CI pipelines green. I try to write code the next developer can pick up without a long handover.
 
@@ -38,8 +38,8 @@ I speak English, Urdu and Arabic, and I'm comfortable working remotely with team
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br/>
-<b>AI</b><br/>
-<sub>Image generation, super-resolution and Python pipelines</sub>
+<b>AI and ML</b><br/>
+<sub>Machine learning models, LLM integrations, computer vision and model deployment</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" /><br/>
