@@ -62,7 +62,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-stock-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-stock-light.svg" width="100%" alt="Stock Prediction System: a forecasting pipeline with SQL-backed data ingestion, technical features, LSTM and gradient boosting models, walk-forward validation and a React dashboard." />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-stock-light.svg" width="100%" alt="Stock Prediction System: a forecasting pipeline with SQL-backed data ingestion, technical features, LSTM and Bayesian network models, walk-forward validation and a React dashboard." />
 </picture>
 
 <br/>
