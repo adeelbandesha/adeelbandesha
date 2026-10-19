@@ -47,8 +47,22 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-light.svg" width="100%" alt="Quran Learning App: a mobile app for reading and memorizing the Quran with authentic glyph-based Mushaf pages. React Native and Expo app with a Node.js, Express and MongoDB API." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-quran-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-quran-light.svg" width="100%" alt="Quran Learning App: a mobile app for reading and memorizing the Quran with authentic glyph-based Mushaf pages. React Native and Expo app with a Node.js, Express and MongoDB API." />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-shop-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-shop-light.svg" width="100%" alt="AI-Powered E-commerce: a full stack storefront with ML recommendations, semantic search and LLM-assisted product copy. Next.js, Node.js, PostgreSQL and a Python ML service." />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-stock-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adeelbandesha/adeelbandesha/main/assets/work-stock-light.svg" width="100%" alt="Stock Prediction System: a forecasting pipeline with SQL-backed data ingestion, technical features, LSTM and gradient boosting models, walk-forward validation and a React dashboard." />
 </picture>
 
 <br/>
